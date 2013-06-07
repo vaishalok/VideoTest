@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi-v7a
+directory /home/alok/Android/android-ndk-r8e/platforms/android-8/arch-arm/usr/include jni/ffmpeg-0.8/android/armv7-a/include /home/alok/Android/android-ndk-r8e/sources/cxx-stl/system
